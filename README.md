@@ -21,3 +21,14 @@ samples, guidance on mobile development, and a full API reference.
 
 ![5e8q85](https://user-images.githubusercontent.com/52205782/123075542-f133ef80-d435-11eb-8e56-346b89b898b0.gif)
 
+
+
+# Project Stucture
+
+data
+    ├───bloc
+    ├───model
+    ├───ui
+    │   ├───screen
+    │   └───widget
+    └───util
